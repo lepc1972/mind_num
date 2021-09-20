@@ -1,4 +1,4 @@
-# MASTERMIND...THE GAME 
+# MASTERMIND...THE GAME :space_invader: :space_invader: :space_invader:
 
 ![mastermind](https://image.winudf.com/v2/image/ZXMubXRvaC5tYXN0ZXJtaW5kbm1lcm9zX3NjcmVlbl8zXzE1MzE1ODc4NjFfMDQ1/screen-3.jpg?fakeurl=1&type=.jpg)
  
@@ -12,7 +12,7 @@
 
 ### ok, let's play...
 
-## Clone the repo and...
+## Clone the repo and... :rocket: :rocket:
 
 1. First: On your console type python or python3 before mastermind.py (python3 mastermind.py).
 2. Answer the questions in the console and get fun...if you give up, type F...
@@ -20,11 +20,11 @@
 4. And remember, simple but effective is better...
 5. Feel free to improve it at any time.
 
-## Thanks!!!
+## Thanks!!! :mechanical_arm: :mechanical_arm: :mechanical_arm:
 
-# LUIS EDUARDO PACHECO CAMPANELLA
+# LUIS EDUARDO PACHECO CAMPANELLA  
 
-### mail: lepc72@gmail.com
+### mail: lepc72@gmail.com  :mechanical_arm: 
 
 ### twitter: https://twitter.com/LEXUS72
 
