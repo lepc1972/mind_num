@@ -1,6 +1,6 @@
 # MASTERMIND...THE GAME 
 
- ![mastermind](https://play.google.com/store/apps/details?id=es.mtoh.mastermindnmeros&hl=en_SG&gl=US)
+![mastermind](![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg))
  
 ## Mastermind is a game that consists of deducing a numerical code, or (for example) four or more colors.
 
