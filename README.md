@@ -1,6 +1,6 @@
 # MASTERMIND...THE GAME 
 
-![mastermind](![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg))
+![mastermind](https://image.winudf.com/v2/image/ZXMubXRvaC5tYXN0ZXJtaW5kbm1lcm9zX3NjcmVlbl8zXzE1MzE1ODc4NjFfMDQ1/screen-3.jpg?fakeurl=1&type=.jpg)
  
 ## Mastermind is a game that consists of deducing a numerical code, or (for example) four or more colors.
 
